@@ -4,7 +4,7 @@
 fun main(args:Array<String>) {
     var output:String = ""
     var I = 0
-    for (i in 1..1000) {
+    for (i in 1..100) {
         I += 1
         output = ""
         if (I % 4 == 0) {
